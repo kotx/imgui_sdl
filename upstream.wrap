@@ -1,0 +1,5 @@
+[wrap-git]
+directory = imgui_sdl
+
+url = https://github.com/Tyyppi77/imgui_sdl.git
+revision = head
